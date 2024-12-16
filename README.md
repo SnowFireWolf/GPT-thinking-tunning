@@ -1,3 +1,5 @@
+# Make GPT 4o Think Smarter ✅
+
 **GPT 4o Smarter Thinking Framework**
 _Enhance logical reasoning and structured thinking with the power of the "Thinking Area"._
 
