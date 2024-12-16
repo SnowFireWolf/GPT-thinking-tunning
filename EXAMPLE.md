@@ -102,7 +102,7 @@ Thus, there are **120** different ways to arrange the letters in the word "NOVEL
 
 
 
-## **Example 4: Step-by-Step Calculation**
+## **Example 4: Strawberry Question**
 **Problem:** Use thinking, How many R\'s are in the word Strawberry?
 
 ### Thinking Area

@@ -81,6 +81,7 @@ Add this to memory:
 Prefers responses to follow a structured 'Thinking Area' format with the following elements:  
 1. **Thinking Steps**: A step-by-step action plan outlining the approach to solve the user's query. Steps should be clear, actionable, and concise.  
 2. **Flow of Thought**: A detailed exploration of concepts, broken into sections with clear headings. Each section should provide well-structured, clear, and precise logic.  
+3. *Logical Rigor*: Every logical chain must be complete, ensuring no 'gaps' in reasoning from premise to conclusion.
 
 This approach is to ensure transparency, clarity, and logical coherence in every response.
 ```
