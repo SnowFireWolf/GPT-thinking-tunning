@@ -2,7 +2,7 @@
 
 Hi, I am Kevin. I designed a "Thinking Area" for GPT 4o and 4o-mini to help it think smarter than before and have a little better logical reasoning. I have been testing and refining this approach for almost a month and have finally discovered the best way to make GPT 4o smarter.
 
-Through numerous questions and trials with GPT, I can confidently say:\
+Through numerous questions and trials with GPT, I can confidently say:
 **It really has an impressive way of thinking!**
 
 Follow my steps, and I'll show you how you can achieve the same results.
@@ -11,9 +11,7 @@ Follow my steps, and I'll show you how you can achieve the same results.
 
 ## What is Basic Understanding
 
-To maximize GPT’s thinking capacity, we must create an environment where GPT enjoys helping us and encourages deeper reasoning.\
-We should avoid restricting it with rigid instructions on how to think. The reality is that GPT 4o already has a strong thinking process.\
-Our role is to enhance its ability to reason, reflect, and analyze.
+To maximize GPT’s thinking capacity, we must create an environment where GPT enjoys helping us and encourages deeper reasoning. Avoid imposing rigid thinking instructions. The reality is that GPT 4o already has a strong thinking process. Our role is to enhance its ability to reason, reflect, and analyze.
 
 With this goal in mind, I’ve created a process to encourage GPT to think more effectively and independently.
 
@@ -55,8 +53,7 @@ More Thoughts...
 ---
 ```
 
-This "Thinking Area" is used for logical reasoning, problem analysis, and response construction.\
-All content inside the "Thinking Area" will be in English, and GPT's final response will follow this structure before providing the actual answer.
+This "Thinking Area" is used for logical reasoning, problem analysis, and response construction. All content inside the "Thinking Area" will be in English, and GPT's final response will follow this structure before providing the actual answer.
 
 The logic behind this format is simple but powerful. It encourages GPT to analyze, simulate human cognitive flow, and solve problems more efficiently. The division of the thinking process into logical steps allows for clear and structured reasoning, leading to better results.
 
@@ -92,14 +89,13 @@ This approach is to ensure transparency, clarity, and logical coherence in every
 
 ## Why Use English?
 
-All thinking content in the "Thinking Area" is written in English. Why? Because English-language datasets are significantly more extensive than those in other languages.\
-I believe that OpenAI’s training for GPT includes many reasoning processes in English, which enables deeper analysis and more comprehensive problem-solving abilities.
+All thinking content in the "Thinking Area" is written in English. Why? Because English-language datasets are significantly more extensive than those in other languages. I believe that OpenAI’s training for GPT includes many reasoning processes in English, which enables deeper analysis and more comprehensive problem-solving abilities.
 
 By ensuring that the internal thinking process is in English, we give GPT access to a broader range of reasoning models, logical patterns, and cognitive structures that have been embedded in its training.
 
 ---
 
-## Setting How would you like ChatGPT to respond?
+## Setting: How Would You Like ChatGPT to Respond?
 
 You can set your GPT by a special name. Giving GPT an identity helps it want to write more content and enjoy responding.
 
@@ -111,8 +107,20 @@ I will follow the thinking structures.
 
 ---
 
-By following this guideline, you will unlock GPT 4o’s full thinking potential, transforming it into a smarter, more logical, and more effective assistant. Let GPT think deeply, and you’ll be amazed by the results.
+## Key Takeaways Checklist
 
+- **"Thinking Area" Structure**: Follow the predefined format for step-by-step reasoning.  
+- **Code Block Usage**: Always enclose the "Thinking Area" in a code block.  
+- **Logical Flow**: Ensure a smooth logical flow from process to conclusion.  
+- **Language Separation**: Use English for internal logic and the user’s language for final responses.  
+- **Memory Usage**: Add memory preferences to enable consistency.  
+- **Reflection and Error Awareness**: Encourage GPT to recognize, reflect, and correct mistakes.  
+- **Simplify Instructions**: Keep explanations clear, concise, and easy to follow.  
+- **Enhance Visual Clarity**: Consider visual aids, charts, or simple lists for better user understanding.
+
+---
+
+By following this guideline, you will unlock GPT 4o’s full thinking potential, transforming it into a smarter, more logical, and more effective assistant. Let GPT think deeply, and you’ll be amazed by the results.
 
 
 
